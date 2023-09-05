@@ -1,0 +1,285 @@
+<resources>
+    <string name="app_name">Product</string>
+    <string name="about">About</string>
+
+    <string name="product_name">Nama Produk</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>ANTIBACTERIAL AIR FRESHENER</item>
+        <item>BRAKE CLEANER</item>
+        <item>BRAKE FLUID</item>
+        <item>LONG LIFE COOLANT</item>
+        <item>DIESEL FUEL SYSTEM CLEANER</item>
+        <item>ENGINE FLUSH</item>
+        <item>DIESEL ENGINE OIL</item>
+        <item>ENGINE OIL TREATMENT</item>
+        <item>GASOLINE FUEL SYSTEM CLEANER</item>
+        <item>OIL FILTER</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>
+            MITSUBISHI ANTIBACTERIAL AIR FRESHENER remover unpleasant odors and the fingi in the car,\n
+            the first to be formulated with KOKINMASTER ,this product can prevent 372 types of bacteria,fungus and algae.\n\n
+            FEATURES\n
+            -removes unpleasant odors and fungi in the car.\n
+            -prevents bacteria,fungus and algae in the car.\n
+            -keeps car interior clean.\n\n
+
+            DIRECTION\n
+            1.close all car windows,shut all doors and stop the engine.\n
+            2.displace front seats anteriorly,and fold  forward backrests.\n
+            3.shake well this product,detach the cap,and place it in the car center of rear seats floor mat.\n
+            4.push the button downwards until it clicks,step out the car immediately.\n
+            5.injection time is about 5 minutes.hold for 5minutes after finishing injection for setting the agent.\n
+            6.open all doors to the car for replacement of air about 5 minutes.\n\n
+
+            220ml
+        </item>
+        <item>
+            Mitsubishi Motors SUPER BRAKE CLEANER Cairan Pembersih Rem 480ml\n
+            Part Number : SPC98001\n\n
+
+            Suku Cadang Asli Mitsubishi\n
+
+            Isi Paket : \n
+            - 1 x Mitsubishi Motors SUPER BRAKE CLEANER cairan pembersih rem 480ml\n
+
+            Cairan chemical Mitusbishi Motors di formulasikan khusus untuk membersihkan sistem pengereman dari kotoran\n
+            dan debu yang bisa mengganggu kinerja sistem pengereman \n\n
+
+            Keunggulan Produk: \n
+            - Dapat membersihkan oli, pelumas, bubuk asbes pada komponen pengereman (permukaan rem dan piringan rem) \n\n
+
+            Cara Penggunaan: \n
+            1. Letakkan wadah dibawah rem sebelum proses pembersihan \n
+            2. Kocok terlebih dahulu sebelum pemakaian dan gunakan pipa semprot yang sudah tersedia \n
+            3. Posisikan pipa 20-30 cm dari permukaan yang akan dibersihkan \n
+            4. Semprot secara perlahan \n
+            5. Setelah permukaan menjadi lembab, tekan penyemprot dengan kuat dan lanjutkan aplikasi \n
+            6. Lanjutkan aplikasi keseluruh permukaan rem \n\n
+
+            Untuk Model Kendaraan:\n
+            - Dapat digunakan untuk semua kendaraan
+        </item>
+        <item>
+            Mitsubishi Motors BRAKE FLUID Cairan Minyak Rem DOT-4, 300ml \n
+            Part Number : SPC98011\n\n
+
+            Suku Cadang Asli Mitsubishi\n
+            Isi Paket : \n
+            - 1 x Mitsubishi Motors BRAKE FLUID Cairan Minyak Rem DOT-4, 300ml\n\n
+
+            Cairan chemical Mitusbishi Motors yang di formulasikan untuk membantu kinerja pengereman\n
+            pada kendaraan dengan Grade DOT-4 \n\n
+
+            Komposisi Produk: \n
+            - Glycol ether \n
+            - Polyalkylene Glycol \n
+            - anti oksidan, dan \n
+            - anti karat \n
+
+            Keunggulan Produk: \n
+            1. Mencegah rem tidak mudah aus\n
+            2. Menjaga suhu pada kinerja rem \n\n
+
+            Cara Penggunaan: \n
+            1. Bersihkan sekeliling penutup dan isi tabung Master Cylinder sampai 12mmn dari permukaan tabung \n
+            2. Pastikan tidak ada udara yang terjebak pada sistem pengereman \n
+            3. Simpan pada wadah aslinya dan di tutup dengan rapat \n\n
+
+            Saran Penggantian: \n
+            - Setiap 2 tahun atau pada 40.000 Km \n\n
+
+            Untuk Model Kendaraan: \n
+            - Dapat digunakan untuk semua kendaraan \n
+            - Jika untuk penambahan bisa disesuaikan dengan grade sebelumnya (Buku panduan kepemilikan kendaraan)\n
+            - Jika untuk di ganti grade (dari DOT-3 ke DOT-4), minyak rem yang lama harus dikuras terlebih dahulu"</item>
+        <item>
+            Mitsubishi Motors LONG LIFE COOLANT Air Radiator Concentration 100% 1L\n
+            Cairan chemical Mitusbishi Motors di formulasikan khusus sebagai cairan Anti-Karat Anti-Beku generasi baru\n
+            pendingin mesin berbasis etilen glikol yang sangat baik untuk semua mesin Mitsubishi\n\n
+
+            Komposisi:\n
+            - Pendingin mesin berbasis Etilen Glikol\n
+            - Memberikan pelindungan korosi yang sangat baik\n\n
+
+            Cara Penggunaan:\n
+            1. Kosongkan coolant dari radiator kendaraan dan bersihkan radiator\n
+            2. Masukan coolant (30% coolant dan 70% air murni) ke dalam kendaraan sesuai buku panduan pemilik kendaraan.\n\n
+
+            Untuk Model Kendaraan:\n
+            - Dapat digunakan untuk semua jenis kendaraan
+        </item>
+        <item>
+            Mitsubishi Motors Diesel Fuel System Cleaner Pembersih 250ml\n
+            Part Number : MZ320392\n\n
+
+            Suku Cadang Asli Mitsubishi\n\n
+
+            Isi Paket :\n
+            - 1 x Mitsubishi Motors Diesel Fuel System Cleaner Pembersih 250ml\n\n
+
+            Cairan chemical Mitusbishi Motors yang di formulasikan khusus untuk mesin Diesel.\n
+            Membersihkan serta menghilangkan karbon dan endapan gum dari injectors. Diesel Fuel System\n
+            Cleaner mengembalikan performa mesin anda.\n\n
+
+            Cairan ini bisa digunakan untuk semua kendaraan diesel tanpa pengaruh berbahaya pada bagian-bagian mesin.\n\n
+
+            Keunggulan Produk:\n
+            1. Mengembalikan kemampuan mesin setelah mempunyai jarak tempuh\n
+            2. Menstabilkan pembuangan\n
+            3. Mengurangi emisi pembuangan dan asap hitam\n
+            4. Menjaga sistem bahan bakar tetap bersih\n\n
+
+            Cara Penggunaan:\n
+            1. Periksa kapasitas tanki besin\n
+            2. Tambahkan 1 botol jika kapasitas tangki kurang dari 75 liter\n
+            3. Tambahkan 2 botol jika kapasitas tangki lebih dari 75 liter\n
+            4. Untuk hasil yang lebih maksimum, masukkan Diesel Fuel System Cleaner sebelum menambahkan bahan bakar hingga tangki penuh\n\n
+
+            Saran Penggantian:\n
+            - Setiap 6 bulan\n\n
+
+            Untuk Model Kendaraan:\n
+            - Dapat digunakan untuk semua kendaraan mesin Diesel
+        </item>
+        <item>
+            Mitsubishi Motors ENGINE FLUSH Pembersih ruang Mesin\n
+            Part Number : MZ100723\n\n
+
+            Suku Cadang Asli Mitsubishi\n\n
+
+            Isi Paket :\n
+            - 1 x Mitsubishi Motors ENGINE FLUSH Pembersih ruang Mesin\n
+
+            Cairan chemical Mitusbishi Motors yang di formulasikan khusus untuk membersihkan deposit dan\n
+            lumpur yang muncul di ruang mesin. Sehingga pelumasan dapat bekerja dengan maksimal\n\n
+
+            Dapat digunakan setiap 2 kali penggantian oli / 10.000 km\n
+            Dapat digunakan untuk semua mesin Gasoline dan Diesel\n\n
+
+            Keunggulan Produk:\n
+            1. Mengembalikan kemampuan mesin\n
+            2. Menstabilkan Idling\n
+            3. Mengurangi kebisingan mesin\n\n
+
+            Cara Penggunaan:\n
+            1. Pastikan mesin dalam kondisi hangat dan tidak hidup\n
+            2. Masukkan 1 botol ENGINE FLUSH pada tempat tutup pengisian oli\n
+            3. Nyalakan mesin dan diamkan selama 10 - 20 menit\n
+            4. Matikan mesin dan keluarkan oli mesin lama\n
+            5. Ganti Filter oli dan isi oli mesin baru\n\n
+
+            Saran Penggantian:\n
+            - Setiap 6 bulan atau 10.000 Km (sebelum penggantian oli filter)\n\n
+
+            Untuk Model Kendaraan:\n
+            - Dapat digunakan untuk semua kendaraan\n
+        </item>
+        <item>
+            Mitsubishi Motors Genuine Oil [Diesel] 10W-30 CF-4 GP SEMI SYNTHETIC 1L\n
+            Pelumas multi grade berkualitas tinggi yang di kembangkan oleh Mitsubishi Motors Corporation - Jepang untuk\n
+            memenuhi kebutuhan spesifik dari mesin Mitsubishi dan standar performa global API. Pelumas ini di fomulasikan\n
+            secara khusus dengan base oil dan aditif berkualitas tinggi untuk mesin kendaraan anda.\n\n
+
+            Keunggulan Produk:\n\
+            1. Kinerja yang baik dibawah tekanan ekstrem dan melindungi mesin dari aus dan kerusakan untuk waktu yang lama\n
+            2. Teknologi base oli dan aditif yang baru menghasilkan kinerja anti-oksidasi yang sangat baik dan berdampak pada mesin yang lebih bersih.\n
+            3. Kinerja start-up dan akselerasi yang cepat dan menghemat bahan bakar di saat yang sama\n
+            4. Performa luar biasa dalam temperature yang tinggi\n\n
+
+            Komposisi:\n
+            - Base oil sintetik + oil mineral + Aditif spesial\n
+            - Grade API : CF-4\n
+            - Oli SAE : 10W-30\n
+            - SEMI SYNTHETIC\n\n
+        </item>
+        <item>
+            TREATMENT Cairan aditif oli 200ml\n
+            Part Number : MZ106001\n\n
+
+            Cairan chemical Mitusbishi Motors yang di formulasikan khusus sebagai aditif oli, membuat kinerja oli\n
+            makin maksimal mengandung Organic Molybdenum.\n\n
+
+            Mengurangi koefisien gesekan dari 1 - 3 koefisien gesekan\n
+            Dapat digunakan setiap penggantian oli\n\n
+
+            Keunggulan Produk:\n
+            1. Meningkatkan kinerja percepatan\n
+            2. Menurunkan kebisingan mesin\n
+            3. Menurunkan konsumsi bahan bakar\n\n
+
+            Cara Penggunaan:\n
+            1. Pastikan mesin dalam kondisi hangat dan tidak hidup\n
+            2. Masukkan 1 botol ENGINE OIL TREATMENT pada tempat tutup pengisian oli setelah penggantian Oli mesin\n
+            3. Nyalakan mesin dan di diamkan selama 5 menit, pastikan jumlah oli mesin dengan batas yang tepat\n
+            4. Gunakan setelah penggantian oli\n\n
+
+            Untuk Model Kendaraan:\n
+            - Dapat digunakan untuk semua kendaraan
+        </item>
+        <item>
+            Mitsubishi Motors Gasoline Fuel System Cleaner Pembersih Injector 200ml\n
+            Part Number : MZ320391\n\n
+
+            Cairan chemical Mitusbishi Motors yang di formulasikan khusus untuk mesin Gasoline.Membersihkan serta\n
+            mengurangi karbon dan endapan gum dari injectors, busi, saluran dan katup pada ruang pembakaran.\n
+            Fuel System Cleaner mengembalikan performa mesin anda pada kondisi awal yang maksimal.\n\n
+
+            Cairan ini bisa digunakan untuk semua jenis mesin berbahan bakar bensin.\n\n
+
+            Komposisi Produk:\n
+            - Detergent Concentration : 75%\n
+            - Detergent : PolyEtherAmine (PEA)\n\n
+
+            Keunggulan Produk:\n
+            1. Menghilang hambatan pada mesin dan membuat idle lebih stabil\n
+            2. Mengembalikan performa mesin dan akselerasi yang hilang\n
+            3. Menghilangkan gejala knocking\n
+            4. Menjaga system bahan bakar tetap bersih\n\n
+
+            Cara Penggunaan:\n
+            1. Periksa kapasitas tanki besin\n
+            2. Tambahkan 1 botol jika kapasitas tangki kurang dari 75 liter\n
+            3. Tambahkan 2 botol jika kapasitas tangki lebih dari 75 liter\n
+            4. Untuk hasil yang lebih maksimum, masukkan Fuel System Cleaner sebelum menambahkan bahan bakar hingga tangki penuh\n\n
+
+            Saran Penggantian:\n
+            - Setiap 6 bulan\n\n
+
+            Untuk Model Kendaraan:\n
+            - Dapat digunakan untuk semua kendaraan mesin Gasoline
+        </item>
+        <item>
+            Mitsubishi Motors Oil Filter Oli Xpander/Mirage/Delica/OutlanderSport\n
+            Part Number : 1230A237\n\n
+
+            Filter oil Dapat digunakan untuk Model kendaraan Xpander/Mirage/Delica/OutlanderSport\n\n
+
+            Keunggulan Produk:\n
+            - Sebagai penyaring oli pada mesin, untuk menjaga kinerja oli pada mesin kendaraan tetap optimal\n\n
+
+            Saran Penggantian:\n
+            - Setiap 6 bulan atau 10.000 Km\n\n
+
+            Untuk Model Kendaraan:\n
+            - Xpander\n
+            - Mirage\n
+            - Delica\n
+            - Outlander Sport\n
+            - Eclipse Cross\n
+        </item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/air_freshner</item>
+        <item>@drawable/brake_cleaner</item>
+        <item>@drawable/brake_fluid</item>
+        <item>@drawable/coolant</item>
+        <item>@drawable/diesel_purge</item>
+        <item>@drawable/eg_flush</item>
+        <item>@drawable/eg_oil</item>
+        <item>@drawable/eg_oil_treatment</item>
+        <item>@drawable/gasoline_purge</item>
+        <item>@drawable/oil_filter</item>
+    </integer-array>
+</resources>
