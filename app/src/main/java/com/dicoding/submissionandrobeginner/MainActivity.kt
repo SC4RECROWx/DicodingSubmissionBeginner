@@ -28,11 +28,11 @@ class MainActivity : AppCompatActivity() {
         return super.onCreateOptionsMenu(menu)
     }
 
-    fun onOptionItemSelected(item: MenuItem): Boolean {
-        when(item.itemId) {
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        when (item.itemId) {
             R.id.about -> {
-                val intentAbout = Intent(this@MainActivity, AboutActivity::class.java)
-                startActivity(intentAbout)
+                val intentABout = Intent(this@MainActivity, AboutActivity::class.java)
+                startActivity(intentABout)
             }
         }
         return super.onOptionsItemSelected(item)

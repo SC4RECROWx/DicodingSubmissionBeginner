@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">Product</string>
     <string name="about">About</string>
+    <string name="myname">Nur Muhammad Akbar</string>
+    <string name="myemail">a708bsy1992@bangkit.academy</string>
+    <string name="mydesc">Hello my name is Nur Muhammad Akbar. I studied at Universitas Teknologi Akba Makassar,\n
+        majoring in Informatics Engineering. I am a non-regular student, specifically from the working class.\n
+        I am very interested in the world of programming and networking.</string>
 
     <string name="product_name">Nama Produk</string>
     <string name="description">Deskripsi</string>
