@@ -1,5 +1,7 @@
 package com.dicoding.submissionandrobeginner
 
+import android.content.Context
+import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -26,6 +28,12 @@ class ListProductAdapter(private val listProduct: ArrayList<Product>) : Recycler
         holder.imgPhoto.setImageResource(photo)
         holder.tvName.text = name
         holder.tvDescription.text = description
+
+        holder.itemView.setOnClickListener {
+            val intentDetail = Intent(holder.itemView.context, DetailProductActivity::class.java)
+            intentDetail.putExtra("key_product", listProduct[holder.adapterPosition])
+            holder.itemView.context.startActivity(intentDetail)
+        }
     }
 
 }
