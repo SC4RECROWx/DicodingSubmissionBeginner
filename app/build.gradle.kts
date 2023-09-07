@@ -5,9 +5,11 @@ plugins {
 }
 
 android {
+
     buildFeatures {
         viewBinding = true
     }
+
     namespace = "com.dicoding.submissionandrobeginner"
     compileSdk = 33
 
@@ -30,6 +32,7 @@ android {
             )
         }
     }
+
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_1_8
         targetCompatibility = JavaVersion.VERSION_1_8

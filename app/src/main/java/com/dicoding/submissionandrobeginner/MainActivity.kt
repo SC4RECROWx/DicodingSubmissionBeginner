@@ -9,6 +9,10 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
 class MainActivity : AppCompatActivity() {
+    companion object {
+        val INTENT_PARCELABLE = "OBJECT_INTENT"
+    }
+
     private lateinit var rvProduct: RecyclerView
     private val list = ArrayList<Product>()
 
