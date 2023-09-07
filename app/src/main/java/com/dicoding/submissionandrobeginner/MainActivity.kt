@@ -9,6 +9,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
 class MainActivity : AppCompatActivity() {
+
     private lateinit var rvProduct: RecyclerView
     private val list = ArrayList<Product>()
 
