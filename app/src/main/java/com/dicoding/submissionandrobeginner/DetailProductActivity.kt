@@ -24,6 +24,8 @@ class DetailProductActivity : AppCompatActivity() {
             intent.getParcelableExtra<Product>("key_product")
         }?: return
 
+        supportActionBar?.title = "Detail Product"
+
         detailBinding.tvProductName.text = dataProduct!!.name
         detailBinding.tvProductDescription.text = dataProduct!!.description
         detailBinding.imgProductPhoto.setImageDrawable(resources.getDrawable(dataProduct.photo,null))
